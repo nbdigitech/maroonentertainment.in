@@ -1,0 +1,4 @@
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/glwsvozu/public_html/maroon
+        - /bin/cp * $DEPLOYPATH #Copy specific file to destination 
