@@ -1,0 +1,52 @@
+.dsbrd
+{
+	width: 70%;
+	min-height: 490px;
+	max-height: auto;
+	background-color: rgba(0,0,0,0.1);
+    margin-top: 130px;
+	margin-left: 210px;
+	position: absolute;
+}
+.dsbrdEmail
+{
+	width: 40%;
+	height: 380px;
+	background-color: white;
+	margin-left: 5%;
+	margin-top: 3.8%;
+	position: absolute;
+}
+.dsbrdPass
+{
+	width: 40%;
+	height: 380px;
+	background-color: white;
+	margin-left: 55.1%;
+	margin-top: 35px;
+	position: absolute;
+}
+
+.emailForm
+{
+	margin-top: 50px;
+}
+.index
+{
+	width: 70%;
+	min-height: 490px;
+	max-height: auto;
+	background-color: rgba(0,0,0,0.1);
+    margin-top: 85px;
+	margin-left: 210px;
+	position: absolute;
+}
+.indexFormDive
+{
+	width: 50%;
+	height: 380px;
+	background-color: white;
+	margin-top: 6%;
+	margin-left:25%;
+	position: absolute;	
+}

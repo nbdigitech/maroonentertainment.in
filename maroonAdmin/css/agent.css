@@ -1,0 +1,15 @@
+.agent
+{
+	background-color: white;
+	width: 50%;
+	margin: 2.7% auto;
+}
+.inptFeild
+{
+	margin-bottom:6px;
+}
+#agentPic
+{
+	display: none;
+}
+
